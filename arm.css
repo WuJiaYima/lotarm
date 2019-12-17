@@ -1,0 +1,49 @@
+.background {
+  padding-top: 45px;
+  padding-right: 225px;
+  margin-left: 150px;
+}
+.Pelion {
+  font-weight: 700px;
+  font-size: 48px;
+  line-height: 1.25;
+  margin: 0 0 60px;
+  color: #333e48;
+}
+.A {
+  line-height: 1.5;
+  font-size: 26px;
+  margin:0 0 15px ;
+  color: #333e48;
+}
+.lot {
+  font-size: inherit;
+  margin-bottom: 30px;
+  line-height: 1.5;
+  color: #333e48;
+}
+.yellow {
+  background-color: #ffc700;
+  border-radius: 40px;
+  padding-bottom: 6px;
+  padding-top: 6px;
+  margin: 15px 0;
+  width: 330px;
+}
+.Explore {
+  padding: 10px 50px;
+  color: #333e48;
+}
+.cross {
+  position: absolute;
+  left: 742px;
+  top: 200px;
+}
+.arm {
+  position: absolute;
+  top: 0;
+  left: 900px;
+}
+a {
+  text-decoration: none;
+}
